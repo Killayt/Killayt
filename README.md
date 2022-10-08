@@ -16,7 +16,7 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - 🔎 I am a junior go developer looking for a job.
 - 🛠 Now I am actively working on my pet-projects.
-- 🥽 At 14 years old, I dived into backend-development.
+- 💻 At 14 years old, I dived into backend-development.
 
 
 ### :hammer_and_wrench: Languages and Tools :
