@@ -6,7 +6,7 @@
 </div>
 
 <!--My Social-->
-<div id="badges" align="right">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logocolor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
