@@ -8,8 +8,12 @@
 
 <!--My Social-->
 <div id="badges">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logocolor=white&style=for-the-badge" href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" href="https://t.me/GrishaSpit" alt="Telegram Badge"/>
+  <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logocolor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/GrishaSpit" >
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
 </div>
 
 
