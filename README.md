@@ -30,12 +30,9 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - 🔎 I am a junior go developer looking for a job.
 
-- :seedling: Exploring Technical Content Writing.
+- 🛠 Now I am actively working on my pet-projects.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-                                                                                                    [Telegram Badge](https://img.shields.io/badge/-teleram-blue?style=flat&logo=Telegram&logoColor=white)
+- 🥽 At 14, I dived into web-development
 
 
                                                                                     
