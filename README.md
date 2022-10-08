@@ -20,7 +20,6 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - 💻 At 14 years old, I dived into backend-development.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killayt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -39,6 +38,7 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killayt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
