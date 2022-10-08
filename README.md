@@ -2,7 +2,7 @@
 
 
 <!--My Social-->
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logocolor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
@@ -11,11 +11,11 @@
   </a>
 </div>
 
-<div id="Profile Views">
+<div id="Profile Views" align="center">
   <img src="https://komarev.com/ghpvc/?username=Killayt&style=flat-square&color=blueviolet"" />
 </div>
 
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
