@@ -16,7 +16,7 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - 🔎 I am a junior go developer looking for a job.
 - 🛠 Now I am actively working on my pet-projects.
-- 💻 Mainly o studing back-end.
+- 💻 Mainly I studing back-end.
 
 
 
