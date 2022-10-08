@@ -61,9 +61,6 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
 </div>
-<div id="Profile Views" align="left">
-  <img src="https://komarev.com/ghpvc/?username=Killayt&style=for-the-badge&color=lightgrey" />
-</div>
 
 
 
