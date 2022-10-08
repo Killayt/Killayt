@@ -1,7 +1,7 @@
 <!--PREVIEW-->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  https://media.giphy.com/media/loIXfNtMm79WGZE0ZL/giphy.gif
+  <img src="https://media.giphy.com/media/loIXfNtMm79WGZE0ZL/giphy.gif" width="600" height="300"/>
+  
 </div>
 
 <!--My Social-->
