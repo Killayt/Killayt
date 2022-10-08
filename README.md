@@ -1,6 +1,7 @@
 <!--PREVIEW-->
 <div align="center">
-  <img src="https://media.giphy.com/media/loIXfNtMm79WGZE0ZL/giphy-downsized-large.gif](https://media.giphy.com/media/loIXfNtMm79WGZE0ZL/giphy-downsized-large.gif" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  https://media.giphy.com/media/loIXfNtMm79WGZE0ZL/giphy.gif
 </div>
 
 <!--My Social-->
