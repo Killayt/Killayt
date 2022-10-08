@@ -1,6 +1,13 @@
+
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200"/>
 </div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logocolor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+</div>
+
 
 ### Hi there 👋
 
