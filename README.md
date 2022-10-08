@@ -34,7 +34,7 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">(https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-mateushev-bab57124b/)</a> <a href="https://t.me/GrishaSpit">![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=white) </a>
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-mateushev-bab57124b/)</a> <a href="https://t.me/GrishaSpit">![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=white) </a>
 
 
                                                                                     
