@@ -1,6 +1,6 @@
 <!--PREVIEW-->
 <div align="center">
-  <img src="" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/code-cyberpunk-programming-loIXfNtMm79WGZE0ZL" width="600" height="300"/>
 </div>
 
 <!--My Social-->
