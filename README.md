@@ -51,7 +51,7 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 <!--My Social-->
 
-### ✉️ Contact :
+### ✉️ Contacts :
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">
