@@ -2,21 +2,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  
-</div>
-
-<!--My Social-->
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logocolor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/GrishaSpit" >
-    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-</div>
 
 <div id="Profile Views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Killayt&style=for-the-badge&color=lightgrey"" />
+  <img src="https://komarev.com/ghpvc/?username=Killayt&style=for-the-badge&color=lightgrey" />
 </div>
 
 <h1 align="center">
@@ -44,7 +32,18 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
                                                                                                                                                
 </div>
                                                                                     
-                                                                                    
+<!--My Social-->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logocolor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/GrishaSpit" >
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+</div>
+
+
+
 <!--
 **Killayt/Killayt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
