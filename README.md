@@ -14,7 +14,7 @@
 </div>
 
 <div id="Profile Views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Killayt&style=flat-square&color=blueviolet"" />
+  <img src="https://komarev.com/ghpvc/?username=Killayt&style=for-the-badge&color=lightgrey"" />
 </div>
 
 <h1 align="center">
