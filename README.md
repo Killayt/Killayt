@@ -29,7 +29,20 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
                                                                                                                                                
 </div>
-                                                                                    
+
+
+
+
+<div id="Stats">
+### :fire: My Stats :
+      
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Killayt&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
+
+
+
+
 <!--My Social-->
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">
