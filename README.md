@@ -10,13 +10,25 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-                                                                                    
+
+<div id="Aboute me">
+
+
+<div align="right">      
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killayt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>  
+<div align="left">                                                                                       
 ### :man_technologist: About Me :
 I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus 🇧🇾.
 
 - 🔎 I am a junior go developer looking for a job.
 - 🛠 Now I am actively working on my pet-projects.
 - 💻 At 14 years old, I dived into backend-development.
+
+</div>
+
+
+</div>
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -34,10 +46,7 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 
 
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killayt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-    
 
 
 
