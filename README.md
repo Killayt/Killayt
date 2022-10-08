@@ -31,7 +31,7 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 </div>
                                                                                     
 <!--My Social-->
-<div id="badges" align="right">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logocolor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
@@ -39,7 +39,7 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
 </div>
-<div id="Profile Views" align="right">
+<div id="Profile Views" align="left">
   <img src="https://komarev.com/ghpvc/?username=Killayt&style=for-the-badge&color=lightgrey" />
 </div>
 
