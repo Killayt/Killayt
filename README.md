@@ -16,6 +16,9 @@
   </a>
 </div>
 
+<div id="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Killayt&style=flat-square&color=blue"" />
+</div>
 
 
 
