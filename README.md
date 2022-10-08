@@ -1,7 +1,4 @@
-<!--GIF-->
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200"/>
-</div>
+<!--PREVIEW-->
 
 
 <!--My Social-->
@@ -15,7 +12,7 @@
 </div>
 
 <div id="Profile Views">
-  <img src="https://komarev.com/ghpvc/?username=Killayt&style=flat-square&color=blue"" />
+  <img src="https://komarev.com/ghpvc/?username=Killayt&style=flat-square&color=blueviolet"" />
 </div>
 
 <h1>
