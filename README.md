@@ -6,7 +6,7 @@
 </div>
 
 <!--My Social-->
-<div id="badges" align="left">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maksim-mateushev-bab57124b/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logocolor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
@@ -29,9 +29,7 @@
 I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus 🇧🇾.
 
 - 🔎 I am a junior go developer looking for a job.
-
 - 🛠 Now I am actively working on my pet-projects.
-
 - 🥽 At 14 years old, I dived into web-development
 
 
