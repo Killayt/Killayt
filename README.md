@@ -32,7 +32,7 @@ I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - 🛠 Now I am actively working on my pet-projects.
 
-- 🥽 At 14, I dived into web-development
+- 🥽 At 14 years old, I dived into web-development
 
 
                                                                                     
