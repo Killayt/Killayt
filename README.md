@@ -12,7 +12,7 @@
                                     
                                     
 ### :man_technologist: About Me :
-I am a Go Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus 🇧🇾.
+I am a Go developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus 🇧🇾.
 
 - 🔎 I am a junior go developer looking for a job.
 - 🛠 Now I am actively working on my pet-projects.
